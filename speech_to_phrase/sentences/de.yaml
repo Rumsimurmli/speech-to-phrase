@@ -152,11 +152,11 @@ data:
   #     - "sensor"
 
   # todo
-  - sentences:
-      - "füge {todo_item} der {name} [Liste] hinzu"
-      - "füge {todo_item} auf [die] {name} [Liste] hinzu"
-      - "füge {todo_item} auf [die] [Liste] {name} hinzu"
-      - "setze {todo_item} auf [die] {name} [Liste]"
-      - "setze {todo_item} auf [die] [Liste] {name}"
-    domains:
-      - "todo"
+  #- sentences:
+  #    - "füge {todo_item} der {name} [Liste] hinzu"
+  #    - "füge {todo_item} auf [die] {name} [Liste] hinzu"
+  #    - "füge {todo_item} auf [die] [Liste] {name} hinzu"
+  #    - "setze {todo_item} auf [die] {name} [Liste]"
+  #    - "setze {todo_item} auf [die] [Liste] {name}"
+  #  domains:
+  #    - "todo"
