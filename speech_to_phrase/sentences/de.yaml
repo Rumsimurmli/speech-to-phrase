@@ -32,11 +32,6 @@ data:
 
   # weather
   - "wie ist das Wetter"
-  - sentences:
-      - "wie ist das Wetter (für|in) {name}"
-      - "was für[ ein] Wetter (ist|hat es) in {name}"
-    domains:
-      - "weather"
 
   # # lights (area)
   # - "turn (on|off) [the] lights [in here]"
